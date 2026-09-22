@@ -62,4 +62,11 @@ database environment.
 During the assignment, I encountered some difficulties while working
 with Oracle PDBs and database connections. One challenge was making sure that I was connected to the correct
 container when performing administrative operations.
+
+## Submission Details
+
+- Student Name: Ariella
+- Student ID: 29031
+- PDB Name: `ar_pdb_29031`
+- GitHub Repository:
 ## THANK YOU !
