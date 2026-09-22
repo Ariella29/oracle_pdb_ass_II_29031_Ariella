@@ -37,8 +37,6 @@ the PDB.
 They show the connection, PDB creation, PDB open state, user creation,
 and related verification steps.
 
----
-
 ## Task 2: Create and Delete a PDB
 
 I created a temporary PDB for testing purposes and performed the
